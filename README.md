@@ -29,7 +29,7 @@ Want to add your own questions? Totally doable.
 - **SQLite** (optional) if you want to pull questions from a database
 
 ---
+<img width="1917" height="909" alt="Image" src="https://github.com/user-attachments/assets/c5988bbb-771c-4c6f-a1e9-70e3b6bab613" />
 
-## 📂 Project Structure
 
 
