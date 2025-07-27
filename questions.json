@@ -1,0 +1,135 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Who directed the movie 'Inception'?",
+    "options": ["Christopher Nolan", "James Cameron", "Steven Spielberg", "Martin Scorsese"],
+    "answer": "Christopher Nolan"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["100°C", "90°C", "80°C", "110°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "Which cricketer is known as 'The Little Master'?",
+    "options": ["Sachin Tendulkar", "MS Dhoni", "Virat Kohli", "Rahul Dravid"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2018?",
+    "options": ["France", "Croatia", "Germany", "Brazil"],
+    "answer": "France"
+  },
+  {
+    "question": "Which movie features the quote 'I am your father'?",
+    "options": ["Star Wars", "Harry Potter", "Avengers", "Inception"],
+    "answer": "Star Wars"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Mitochondria", "Nucleus", "Ribosome", "Chloroplast"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Osmium", "Zinc"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Van Gogh", "Picasso"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Saturn", "Jupiter", "Mars", "Earth"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "Which sport uses the term 'love' for zero?",
+    "options": ["Tennis", "Cricket", "Football", "Badminton"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "What is 15 + 27?",
+    "options": ["42", "32", "37", "52"],
+    "answer": "42"
+  },
+  {
+    "question": "Which is the largest organ in the human body?",
+    "options": ["Skin", "Liver", "Heart", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "In which year did India win its first Cricket World Cup?",
+    "options": ["1983", "2007", "2011", "1975"],
+    "answer": "1983"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["12", "14", "16", "10"],
+    "answer": "12"
+  },
+  {
+    "question": "Which movie won Best Picture at the Oscars in 2020?",
+    "options": ["Parasite", "1917", "Joker", "Ford v Ferrari"],
+    "answer": "Parasite"
+  },
+  {
+    "question": "Which is the smallest planet in our solar system?",
+    "options": ["Mercury", "Venus", "Mars", "Pluto"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Iron", "Aluminum", "Copper"],
+    "answer": "Mercury"
+  },
+
+  
+
+  {
+    "question": "Which Indian chess grandmaster became World Champion?",
+    "options": ["Viswanathan Anand", "Vidit Gujrathi", "Pentala Harikrishna", "R Praggnanandhaa"],
+    "answer": "Viswanathan Anand"
+  },
+  {
+    "question": "Which is the highest-grossing film of all time (as of 2024)?",
+    "options": ["Avatar", "Avengers: Endgame", "Titanic", "Avatar 2"],
+    "answer": "Avatar"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "options": [
+      "Deoxyribonucleic Acid",
+      "Dextroribose Nucleic Acid",
+      "Dual Nucleic Acid",
+      "None of the above"
+    ],
+    "answer": "Deoxyribonucleic Acid"
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "options": ["Water", "Oxygen", "Hydrogen", "Acid"],
+    "answer": "Water"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["Japan", "China", "Thailand", "South Korea"],
+    "answer": "Japan"
+  }
+]
